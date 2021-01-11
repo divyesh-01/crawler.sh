@@ -9,4 +9,3 @@ step - 3 : makes request to finded links and finds froms that also ...
  
  step - 4 : saves in json format. 
 
-file:///home/dvs/Pictures/Screenshot%20from%202021-01-12%2000-28-42.png
